@@ -1,0 +1,20 @@
+body {
+  background-color: #d7fbe8;
+  font-family: "Lucida Console", Courier, monospace;
+  ;
+}
+hr {
+  background-color: #d7fbe8;
+  border-style: dotted none none;
+  width: 7%;
+  border-color: #9df3c4;
+  border-width: 8px;
+}
+
+h1 {
+  color: #1fab89;
+}
+
+h3 {
+  color: #1fab89;
+}
